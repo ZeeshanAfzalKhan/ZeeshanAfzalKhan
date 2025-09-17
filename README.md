@@ -10,7 +10,7 @@
 - 🌱 Learning: **Advanced JavaScript** and  **System Design**
 - 📂 Built projects like: **Memoir (Daily Journal App)**, **Uber Clone**, **Portfolio Website**  
 - ⚡ Goal: Secure a **Full Stack Developer** role and build impactful projects  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@gmail.com)  
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/zeeshanafzalkhan107) | [Email](mailto:zeeshanafzalkhan107@gmail.com)  
 
 ---
 
@@ -18,7 +18,6 @@
 
 ### 🌐 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### ⚙️ Backend  
@@ -39,9 +38,9 @@
 
 ## 🚀 Featured Projects  
 - 📌 [HireNexa](https://github.com/ZeeshanAfzalKhan/HireNexa) – Job portal for recruiters and applicants  
-- 📌 [Memoir](https://github.com/yourusername/memoir) – Daily journal app with cloud storage  
-- 📌 [Uber Clone](https://github.com/yourusername/uber-clone) – Real-time ride booking app using Socket.io & Maps API  
-- 📌 [Portfolio Website](https://github.com/yourusername/portfolio) – Personal developer portfolio  
+- 📌 [Memoir](https://github.com/ZeeshanAfzalKhan/Memoir) – Daily journal app with cloud storage  
+- 📌 [Uber Clone](https://github.com/ZeeshanAfzalKhan/Uber-Clone) – Real-time ride booking app using Socket.io & Maps API  
+- 📌 [Portfolio Website](https://github.com/ZeeshanAfzalKhan/FE-PORTFOLIO) – Personal developer portfolio  
 
 ---
 
