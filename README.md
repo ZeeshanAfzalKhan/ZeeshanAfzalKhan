@@ -49,7 +49,7 @@
 
 ![Zeeshan's GitHub stats](https://github-stats-indol.vercel.app/api?username=ZeeshanAfzalKhan&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-stats-indol.vercel.app/api?username=ZeeshanAfzalKhan&show_icons=true&theme=radical&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZeeshanAfzalKhan&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-stats-indol.vercel.app/api/top-langs/?username=ZeeshanAfzalKhan&layout=compact&theme=radical)
 
