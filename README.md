@@ -10,7 +10,7 @@
 - 🌱 Learning: **Advanced JavaScript** and  **System Design**
 - 📂 Built projects like: **Memoir (Daily Journal App)**, **Uber Clone**, **Portfolio Website**  
 - ⚡ Goal: Secure a **Full Stack Developer** role and build impactful projects  
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/zeeshanafzalkhan107) | [Email](mailto:zeeshanafzalkhan107@gmail.com)  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/zeeshanafzalkhan107) | [Email](mailto:zeeshanafzalkhan107@gmail.com)  
 
 ---
 
