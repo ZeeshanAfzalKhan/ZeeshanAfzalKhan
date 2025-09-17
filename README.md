@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats  
 
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeeshanAfzalKhan&show_icons=true&theme=radical)  
+![Zeeshan's GitHub stats]([https://github-readme-stats.vercel.app](https://github-stats-indol.vercel.app/)/api?username=ZeeshanAfzalKhan&show_icons=true&theme=radical)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAfzalKhan&theme=radical)](https://git.io/streak-stats)  
 
