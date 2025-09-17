@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 - 🎓 Final year B.Tech CSE student at Accurate Institute of Management and Technology  
 - 🔭 Currently working on: [HireNexa](https://github.com/ZeeshanAfzalKhan/HireNexa)  
-- 🌱 Learning: **Next.js**, **System Design**, and **Advanced JavaScript**  
+- 🌱 Learning: **Advanced JavaScript** and  **System Design**
 - 📂 Built projects like: **Memoir (Daily Journal App)**, **Uber Clone**, **Portfolio Website**  
 - ⚡ Goal: Secure a **Full Stack Developer** role and build impactful projects  
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@gmail.com)  
