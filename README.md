@@ -8,7 +8,6 @@
 
 - 🎓 B.Tech in Computer Science & Engineering from **Accurate Institute of Management and Technology**
 - 💼 Passionate about building scalable web applications and Salesforce solutions
-- 🔭 Currently working on: **[HireNexa](https://github.com/ZeeshanAfzalKhan/HireNexa)**
 - 🌱 Currently learning **System Design**, **Advanced JavaScript**, and **Salesforce Platform Development**
 - ☁️ Hands-on experience with **Apex, Lightning Web Components (LWC), SOQL, SOSL, Triggers, Flows, Batch Apex, Queueable Apex, and Salesforce Administration**
 - 📂 Built projects like **HireNexa**, **Memoir (Daily Journal App)**, **Uber Clone**, and **Portfolio Website**
