@@ -56,15 +56,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-- 📌 **[HireNexa](https://github.com/ZeeshanAfzalKhan/HireNexa)** – Job portal for recruiters and applicants
-- 📌 **[Memoir](https://github.com/ZeeshanAfzalKhan/Memoir)** – Daily journal application with cloud storage
-- 📌 **[Uber Clone](https://github.com/ZeeshanAfzalKhan/Uber-Clone)** – Real-time ride booking app using Socket.io & Google Maps API
-- 📌 **[Portfolio Website](https://github.com/ZeeshanAfzalKhan/FE-PORTFOLIO)** – Personal developer portfolio
-
----
-
 # 📊 GitHub Stats
 
 ![Zeeshan's GitHub stats](https://github-stats-indol.vercel.app/api?username=ZeeshanAfzalKhan&show_icons=true&theme=radical)
