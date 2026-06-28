@@ -56,16 +56,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![Zeeshan's GitHub stats](https://github-stats-indol.vercel.app/api?username=ZeeshanAfzalKhan&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZeeshanAfzalKhan&theme=radical)
-
-![Top Languages](https://github-stats-indol.vercel.app/api/top-langs/?username=ZeeshanAfzalKhan&layout=compact&theme=radical)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on interesting projects, contributing to open source, or discussing **Full Stack Development** and **Salesforce**.
